@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "60d21b4667d0d8a11d0c5555",
+    "experienciaId": "60d21b4667d0d8a11d0c3333",
+    "invitadoId": "60d21b4667d0d8a11d0c2222",
+    "fecha": "2023-05-20",
+    "numeroPersonas": 2,
+    "precioTotal": 50.0,
+    "comisionPlataforma": 7.5,
+    "estado": "confirmada",
+    "notasEspeciales": "Preferencia por asiento cerca de ventana",
+    "fechaReserva": "2023-04-15"
+  },
+  {
+    "_id": "60d21b4667d0d8a11d0c6666",
+    "experienciaId": "60d21b4667d0d8a11d0c4444",
+    "invitadoId": "60d21b4667d0d8a11d0c2222",
+    "fecha": "2023-06-10",
+    "numeroPersonas": 3,
+    "precioTotal": 60.0,
+    "comisionPlataforma": 9.0,
+    "estado": "pendiente",
+    "notasEspeciales": "Un invitado vegetariano",
+    "fechaReserva": "2023-05-20"
+  }
+]

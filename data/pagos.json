@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "60d21b4667d0d8a11d0c9999",
+    "reservaId": "60d21b4667d0d8a11d0c5555",
+    "monto": 50.0,
+    "comision": 7.5,
+    "montoNeto": 42.5,
+    "metodoPago": "tarjeta",
+    "estado": "completado",
+    "fechaTransaccion": "2023-04-15"
+  },
+  {
+    "_id": "60d21b4667d0d8a11d0caaaa",
+    "reservaId": "60d21b4667d0d8a11d0c6666",
+    "monto": 60.0,
+    "comision": 9.0,
+    "montoNeto": 51.0,
+    "metodoPago": "paypal",
+    "estado": "pendiente",
+    "fechaTransaccion": "2023-05-20"
+  }
+]

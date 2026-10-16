@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "60d21b4667d0d8a11d0c7777",
+    "reservaId": "60d21b4667d0d8a11d0c5555",
+    "autorId": "60d21b4667d0d8a11d0c2222",
+    "destinatarioId": "60d21b4667d0d8a11d0c1111",
+    "experienciaId": "60d21b4667d0d8a11d0c3333",
+    "calificacion": 5,
+    "comentario": "Una experiencia increíble. La paella estaba deliciosa y la familia fue muy acogedora.",
+    "fecha": "2023-05-21"
+  },
+  {
+    "_id": "60d21b4667d0d8a11d0c8888",
+    "reservaId": "60d21b4667d0d8a11d0c5555",
+    "autorId": "60d21b4667d0d8a11d0c1111",
+    "destinatarioId": "60d21b4667d0d8a11d0c2222",
+    "experienciaId": "60d21b4667d0d8a11d0c3333",
+    "calificacion": 4,
+    "comentario": "Invitados muy respetuosos y agradables. Fue un placer recibirlos en casa.",
+    "fecha": "2023-05-22"
+  }
+]

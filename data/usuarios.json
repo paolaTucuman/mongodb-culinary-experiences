@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "60d21b4667d0d8a11d0c1111",
+    "nombre": "María González",
+    "email": "maria@ejemplo.com",
+    "telefono": "+34612345678",
+    "direccion": {
+      "calle": "Calle Mayor 15",
+      "ciudad": "Madrid",
+      "codigoPostal": "28001",
+      "pais": "España"
+    },
+    "fechaRegistro": "2023-01-15",
+    "roleType": "anfitrion",
+    "calificacionPromedio": 4.8
+  },
+  {
+    "_id": "60d21b4667d0d8a11d0c2222",
+    "nombre": "Juan Pérez",
+    "email": "juan@ejemplo.com",
+    "telefono": "+34687654321",
+    "direccion": {
+      "calle": "Avenida Libertad 45",
+      "ciudad": "Barcelona",
+      "codigoPostal": "08001",
+      "pais": "España"
+    },
+    "fechaRegistro": "2023-02-03",
+    "roleType": "invitado"
+  }
+]
